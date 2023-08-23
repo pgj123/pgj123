@@ -3,7 +3,7 @@
 <br/><br/>
 ####  :wave: Welcome my github profile !
 
-I'm a passionate computer science researcher in Computer Systems Lab (CSL) in SKKU, advised by Prof. Seo.
+I'm a passionate computer science researcher in [Computer Systems Lab (CSL)](http://csl.skku.edu/) in SKKU, advised by Prof. Seo.
 * Email: jesj74@g.skku.edu
 * Office: Corporate Collaboration Center #85533, SKKU, 2066 Seobu-ro Jangan-gu, Suwon 16419, Republic of Korea
 
