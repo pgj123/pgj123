@@ -22,5 +22,5 @@ I'm a passionate computer science researcher in [Computer Systems Lab (CSL)](htt
 
 <br/><br/>
 #### :page_facing_up: Publications
-* DaCapo: An On-Device Learning Scheme for Memory-Constrained Embedded Systems, ACM SIGBED International Conference on Embedded Software (EMSOFT), Osama Khan, Gwanjong Park, and Euiseong Seo, 2023
-* Energy-Harvesting-Aware Adaptive Inference of Deep Neural Networks in Embedded Systems, ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Gwanjong Park, Osama Khan, and Euiseong Seo, 2023
+* [DaCapo: An On-Device Learning Scheme for Memory-Constrained Embedded Systems](https://dl.acm.org/doi/full/10.1145/3609121), ACM SIGBED International Conference on Embedded Software (EMSOFT), Osama Khan, Gwanjong Park, and Euiseong Seo, 2023
+* [Energy-Harvesting-Aware Adaptive Inference of Deep Neural Networks in Embedded Systems](https://ieeexplore.ieee.org/abstract/document/10244276), ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Gwanjong Park, Osama Khan, and Euiseong Seo, 2023
