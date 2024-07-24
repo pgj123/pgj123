@@ -3,21 +3,20 @@
 <br/><br/>
 ####  :wave: Welcome my github profile !
 
-I'm a passionate computer science researcher in [Computer Systems Lab (CSL)](http://csl.skku.edu/) in SKKU, advised by Prof. Seo.
+I'm a passionate computer science researcher in [Computer Systems Lab (CSL)](http://csl.skku.edu/GJPark) in SKKU, advised by Prof. Seo.
 * Email: jesj74@g.skku.edu
 * Office: Corporate Collaboration Center #85533, SKKU, 2066 Seobu-ro Jangan-gu, Suwon 16419, Republic of Korea
 
 <br/><br/>
 #### 💡 Research Interests
 * Systems for machine learning
-* Designing energy efficient systems
+* Energy/carbon efficient systems
 * Optimization strategy & adaptation control
-* GPU, xPU accelerated systems
-* Co-designing hardware-software for accelerating
 
 <br/><br/>
 #### 📖 Education
-* M.S. in Department of Computer Science and Engineering, SKKU, 2022.08 ~ current
+* Ph.D. in Department of Computer Science and Engineering, SKKU, 2024.02 ~ current
+* M.S. in Department of Computer Science and Engineering, SKKU, 2022.08 ~ 2024.02
 * B.S. in Department of Computer Science and Engineering, SKKU, 2017.03 ~ 2022.08
 
 <br/><br/>
